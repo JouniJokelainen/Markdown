@@ -6,4 +6,6 @@
 4. https://github.com/niklasliimatta/readme/ (Niklas Liimatta)  
 5. https://github.com/ThisKnifer/Markdown.git (Pekki ) 
 6. https://github.com/Laressoni/Markdown (Lauri) 
-7. https://github.com/Mikoofw/Markdown/tree/master/Markdown-assingment (Niko V)
+7. https://github.com/Illitra/Markdown (NooraT)
+8. https://github.com/Mikoofw/Markdown/(Niko V)
+
